@@ -1,2 +1,2 @@
 # html-test-project
-trying and lerning github
+trying and learning github
